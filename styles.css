@@ -1,0 +1,32 @@
+#budget{
+    background-color: burlywood;
+    text-align: center;
+    padding: 90px;
+    margin: auto;
+    border-radius: 3%;
+}
+
+#brands{
+    background-color: burlywood;
+    text-align: left;
+    padding: 90px;
+    margin: 50px;
+}
+
+#pictures{
+    background-color: burlywood;
+    text-align: center;
+    padding: 90px;
+    margin: 50px;
+}
+
+
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2023/01/16/19/13/laptop-7723139_1280.jpg);
+}
+
+.warning:hover {
+  background: #ff9800;
+  color: white;
+  outline: #ff9800;
+}
